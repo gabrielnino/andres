@@ -1,0 +1,58 @@
+{
+	"info": {
+		"_postman_id": "d4452a0d-3c92-4836-a9ce-799e9c2c19e7",
+		"name": "Steps",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "ToListAsync",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44351/api/Steps",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44351",
+					"path": [
+						"api",
+						"Steps"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DeleteAsync",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": " {\r\n        \"id\": 1,\r\n        \"code\": \"STP-0001  \",\r\n        \"name\": \"Paso 1    \"\r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44351/api/Steps",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44351",
+					"path": [
+						"api",
+						"Steps"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

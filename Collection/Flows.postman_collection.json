@@ -1,0 +1,80 @@
+{
+	"info": {
+		"_postman_id": "62aa49b0-7901-4c1f-92c8-50658e671962",
+		"name": "Flows",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "ToListAsync -Successful",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44351/api/Flows/1",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44351",
+					"path": [
+						"api",
+						"Flows",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "ToListAsync -Faild-Check",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44351/api/Flows/100",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44351",
+					"path": [
+						"api",
+						"Flows",
+						"100"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DeleteAsync",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "    {\r\n        \"id\": 1,\r\n        \"name\": \"Secuencial          \"\r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44351/api/Flows",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44351",
+					"path": [
+						"api",
+						"Flows"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

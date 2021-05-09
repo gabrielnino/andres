@@ -1,0 +1,47 @@
+{
+	"info": {
+		"_postman_id": "8266d807-781d-4ddc-a7fe-dde10a560bb1",
+		"name": "Fields",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "ToListAsync -Successful",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n        \"id\": 1,\r\n        \"code\": \"F-0001    \",\r\n        \"name\": \"Primer nombre       \",\r\n        \"idTypeField\": 1\r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44351/api/Fields",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44351",
+					"path": [
+						"api",
+						"Fields"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DeleteAsync-Successful",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}

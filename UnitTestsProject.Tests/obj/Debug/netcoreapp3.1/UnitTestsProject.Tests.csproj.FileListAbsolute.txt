@@ -1,0 +1,656 @@
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\testhost.exe
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\UnitTestsProject.Tests.deps.json
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\UnitTestsProject.Tests.runtimeconfig.json
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\UnitTestsProject.Tests.runtimeconfig.dev.json
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\UnitTestsProject.Tests.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\UnitTestsProject.Tests.pdb
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\BusinessRules.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Utilities.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\BusinessRules.pdb
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Utilities.pdb
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\obj\Debug\netcoreapp3.1\UnitTestsProject.Tests.csprojAssemblyReference.cache
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\obj\Debug\netcoreapp3.1\UnitTestsProject.Tests.AssemblyInfoInputs.cache
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\obj\Debug\netcoreapp3.1\UnitTestsProject.Tests.AssemblyInfo.cs
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\obj\Debug\netcoreapp3.1\UnitTestsProject.Tests.csproj.CoreCompileInputs.cache
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\obj\Debug\netcoreapp3.1\UnitTestsProject.Tests.csproj.CopyComplete
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\obj\Debug\netcoreapp3.1\UnitTestsProject.Tests.dll
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\obj\Debug\netcoreapp3.1\UnitTestsProject.Tests.pdb
+C:\Users\lnino\source\repos\Insttantt\UnitTestsProject.Tests\obj\Debug\netcoreapp3.1\UnitTestsProject.Tests.genruntimeconfig.cache
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\testhost.exe
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\testhost.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\UnitTestsProject.Tests.deps.json
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\UnitTestsProject.Tests.runtimeconfig.json
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\UnitTestsProject.Tests.runtimeconfig.dev.json
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\UnitTestsProject.Tests.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\UnitTestsProject.Tests.pdb
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Moq.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\BusinessRules.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Entities.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Utilities.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\BusinessRules.pdb
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Utilities.pdb
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\obj\Debug\netcoreapp3.1\UnitTestsProject.Tests.csprojAssemblyReference.cache
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\obj\Debug\netcoreapp3.1\UnitTestsProject.Tests.AssemblyInfoInputs.cache
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\obj\Debug\netcoreapp3.1\UnitTestsProject.Tests.AssemblyInfo.cs
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\obj\Debug\netcoreapp3.1\UnitTestsProject.Tests.csproj.CoreCompileInputs.cache
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\obj\Debug\netcoreapp3.1\UnitTestsProject.Tests.csproj.CopyComplete
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\obj\Debug\netcoreapp3.1\UnitTestsProject.Tests.dll
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\obj\Debug\netcoreapp3.1\UnitTestsProject.Tests.pdb
+C:\repo\Insttantt\insttantt\Insttantt\UnitTestsProject.Tests\obj\Debug\netcoreapp3.1\UnitTestsProject.Tests.genruntimeconfig.cache
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\testhost.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\testhost.exe
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\UnitTestsProject.Tests.deps.json
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\UnitTestsProject.Tests.runtimeconfig.json
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\UnitTestsProject.Tests.runtimeconfig.dev.json
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\UnitTestsProject.Tests.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\UnitTestsProject.Tests.pdb
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Moq.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\BusinessRules.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Entities.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Utilities.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\BusinessRules.pdb
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Utilities.pdb
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\obj\Debug\netcoreapp3.1\UnitTestsProject.Tests.csprojAssemblyReference.cache
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\obj\Debug\netcoreapp3.1\UnitTestsProject.Tests.AssemblyInfoInputs.cache
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\obj\Debug\netcoreapp3.1\UnitTestsProject.Tests.AssemblyInfo.cs
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\obj\Debug\netcoreapp3.1\UnitTestsProject.Tests.csproj.CoreCompileInputs.cache
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\obj\Debug\netcoreapp3.1\UnitTestsProject.Tests.csproj.CopyComplete
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\obj\Debug\netcoreapp3.1\UnitTestsProject.Tests.dll
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\obj\Debug\netcoreapp3.1\UnitTestsProject.Tests.pdb
+C:\repo\Insttantt\hubbec\Insttantt\UnitTestsProject.Tests\obj\Debug\netcoreapp3.1\UnitTestsProject.Tests.genruntimeconfig.cache
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\testhost.exe
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\UnitTestsProject.Tests.deps.json
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\UnitTestsProject.Tests.runtimeconfig.json
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\UnitTestsProject.Tests.runtimeconfig.dev.json
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\UnitTestsProject.Tests.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\UnitTestsProject.Tests.pdb
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\BusinessRules.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Utilities.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\BusinessRules.pdb
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\bin\Debug\netcoreapp3.1\Utilities.pdb
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\obj\Debug\netcoreapp3.1\UnitTestsProject.Tests.csprojAssemblyReference.cache
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\obj\Debug\netcoreapp3.1\UnitTestsProject.Tests.AssemblyInfoInputs.cache
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\obj\Debug\netcoreapp3.1\UnitTestsProject.Tests.AssemblyInfo.cs
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\obj\Debug\netcoreapp3.1\UnitTestsProject.Tests.csproj.CoreCompileInputs.cache
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\obj\Debug\netcoreapp3.1\UnitTestsProject.Tests.csproj.CopyComplete
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\obj\Debug\netcoreapp3.1\UnitTestsProject.Tests.dll
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\obj\Debug\netcoreapp3.1\UnitTestsProject.Tests.pdb
+C:\Users\lnino\OneDrive - IG Services S.A.S\Personal\Code\Insttantt\UnitTestsProject.Tests\obj\Debug\netcoreapp3.1\UnitTestsProject.Tests.genruntimeconfig.cache

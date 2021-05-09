@@ -1,0 +1,67 @@
+{
+	"info": {
+		"_postman_id": "804c2ce0-a3a2-401e-9f22-dbd04782f56e",
+		"name": "FlowGeneralController",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "CreateAsync-Successful",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\t\"IdUser\": 3,\r\n\t\"IdFlow\": 1,\r\n\t\"fieldsValue\": [\r\n\t\t{\r\n\t\t\t\"Id\": 1,\r\n\t\t\t\"Value\": \"Luis\"\r\n\t\t},\r\n\t\t{\r\n\t\t\t\"Id\": 2,\r\n\t\t\t\"Value\": \"Gabriel\"\r\n\t\t},\r\n\t\t{\r\n\t\t\t\"Id\": 3,\r\n\t\t\t\"Value\": \"Niño\"\r\n\t\t},\r\n\t\t{\r\n\t\t\t\"Id\": 4,\r\n\t\t\t\"Value\": \"Brialdo\"\r\n\t\t},\r\n\t\t{\r\n\t\t\t\"Id\": 5,\r\n\t\t\t\"Value\": \"2\"\r\n\t\t},\r\n\t    {\r\n\t\t\t\"Id\": 6,\r\n\t\t\t\"Value\": \"80113781\"\r\n\t\t},\r\n\t\t{\r\n\t\t\t\"Id\": 7,\r\n\t\t\t\"Value\": \"3.141617\"\r\n\t\t}\r\n\t]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44351/api/FlowGeneral",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44351",
+					"path": [
+						"api",
+						"FlowGeneral"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CreateAsync-Faild-Check",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\t\"IdUser\": 1,\r\n\t\"IdFlow\": 1,\r\n\t\"fieldsValue\": [\r\n\t\t{\r\n\t\t\t\"Id\": 1,\r\n\t\t\t\"Value\": \"Luis\"\r\n\t\t},\r\n\t\t{\r\n\t\t\t\"Id\": 2,\r\n\t\t\t\"Value\": \"Gabriel\"\r\n\t\t},\r\n\t\t{\r\n\t\t\t\"Id\": 3,\r\n\t\t\t\"Value\": \"Niño\"\r\n\t\t}\r\n\t]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44351/api/FlowGeneral",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44351",
+					"path": [
+						"api",
+						"FlowGeneral"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

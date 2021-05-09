@@ -1,0 +1,58 @@
+{
+	"info": {
+		"_postman_id": "9c50641f-5790-4331-9a03-1e312284080f",
+		"name": "StepsNext",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "ToListAsync",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n        \"idFlow\": 2,\r\n        \"idStep\": 3,\r\n        \"idStepNext\": 5\r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44351/api/StepsNext",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44351",
+					"path": [
+						"api",
+						"StepsNext"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DeleteAsync",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44351/api/StepsNext",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44351",
+					"path": [
+						"api",
+						"StepsNext"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
